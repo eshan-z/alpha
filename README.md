@@ -1,3 +1,3 @@
 # DSA code
 
-DSA code files db
+DSA code files database
