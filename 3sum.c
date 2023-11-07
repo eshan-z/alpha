@@ -6,6 +6,7 @@ int cmp(const void *a, const void *b)
     return (*(int *)a - *(int *)b);
 }
 int binarySearch(int arr[], int l, int r, int x)
+
 {
     while (l <= r)
     {
